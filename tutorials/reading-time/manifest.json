@@ -16,9 +16,10 @@
         "scripts/content.js"
       ],
       "matches": [
-        "https://developer.chrome.com/docs/extensions/*",
-        "https://developer.chrome.com/docs/webstore/*"
-      ]
+        "https://old.reddit.com/*",
+        "https://www.reddit.com/*"
+      ],
+      "run_at": "document_end"
     }
   ]
 }
